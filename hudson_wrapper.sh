@@ -14,6 +14,7 @@
 # Requires:
 #   - curl
 #   - bc
+#   - hexdump
 #
 # Runs <script>, capturing its stdout, stderr, and return code, then sends all
 # that info to Hudson under a Hudson job named <job>.
